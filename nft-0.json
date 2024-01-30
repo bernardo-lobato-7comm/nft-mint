@@ -1,0 +1,15 @@
+{
+
+  "description": "Gato com medo de aranhas", 
+  "external_url": "https://en.wikipedia.org/wiki/Cat", 
+  "image": "https://media.istockphoto.com/id/1467739359/pt/foto/cup-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?s=1024x1024&w=is&k=20&c=cnzi5lJKieWzXfGoFQSSJD9MYomTBP9I0zVzGGjF2J8=", 
+  "name": "Senhor Gato da Silva",
+  "attributes": [{
+      "trait_type": "Açucar", 
+      "value": "Não"
+    }, 
+    {
+      "trait_type": "Leite", 
+      "value": "sim"
+    }]
+}

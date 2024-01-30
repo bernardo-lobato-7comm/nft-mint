@@ -1,0 +1,15 @@
+{
+
+    "description": "Zumbi com medo de ficar doente", 
+    "external_url": "https://pt.wikipedia.org/wiki/Zumbi", 
+    "image": "https://media.istockphoto.com/id/1008309040/pt/foto/fun-zombie-3d-illustration.webp?s=170667a&w=0&k=20&c=eeEiNBqAgWzuGyw0F08eZXSLLLyPDu_oT5lmBe6cuuQ=", 
+    "name": "Zumbi de máscara",
+    "attributes": [{
+        "trait_type": "Máscara", 
+        "value": "Não"
+      }, 
+      {
+        "trait_type": "Cérebro", 
+        "value": "Sim"
+      }]
+  }

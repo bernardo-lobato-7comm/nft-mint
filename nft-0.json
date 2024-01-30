@@ -1,15 +1,15 @@
 {
 
-  "description": "Gato com medo de aranhas", 
-  "external_url": "https://en.wikipedia.org/wiki/Cat", 
-  "image": "https://media.istockphoto.com/id/1467739359/pt/foto/cup-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?s=1024x1024&w=is&k=20&c=cnzi5lJKieWzXfGoFQSSJD9MYomTBP9I0zVzGGjF2J8=", 
-  "name": "Senhor Gato da Silva",
+  "description": "Zumbi com medo de ficar doente", 
+  "external_url": "https://pt.wikipedia.org/wiki/Zumbi", 
+  "image": "https://images.unsplash.com/photo-1637858868799-7f26a0640eb6?q=80&w=2680&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+  "name": "Zumbi de máscara",
   "attributes": [{
-      "trait_type": "Açucar", 
-      "value": "Não"
+      "trait_type": "Máscara", 
+      "value": "Sim"
     }, 
     {
-      "trait_type": "Leite", 
-      "value": "sim"
+      "trait_type": "Cérebro", 
+      "value": "Não"
     }]
 }
